@@ -1,0 +1,6 @@
+{
+  "name": "Manoj AI Movie Dubbing",
+  "description": "AI-powered long movie dubbing into natural Telugu using chunk-based speech recognition, translation, character voice synthesis, and audio mixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
